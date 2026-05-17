@@ -1,0 +1,28 @@
+-----------------------------------------
+Compared files= test1 vs test5
+-----------------------------------------
+match score= 7
+mismatch score= -5
+gap opening penalty= -3
+gap extension penalty= -1
+-----------------------------------------
+Length for test1.seq= 275
+Length for test5.seq= 252
+-----------------------------------------
+Alignment score= 786
+
+CG---AG---ACC--GAC-G-A-AGAGGTTT-GGCCCC-----AACCAGGTTCCCTGATC---ACGTAACTTAC-CGGCCAAAAGGA--CTGG--CCTTA
+||   ||   |||   || | | ||||   | |    |     ||  ||      ||  |   | ||  |||x| ||||    | ||  |  |  |||  
+CGGGTAGTTAACCCT-ACAGCATAGAG---TCG----CGAGATAA--AG------TG--CAGGA-GT--CTTTCGCGGC----A-GATTC--GTACCT--
+
+CTAA----G-GC--CTTT---G--TCTAC---TGC-GGGTCCG----GG-GGCCGTTG-GTTTCGGCA---GAACACTTCCCTGG-ACCG-AGCTTAAAT
+| ||    | ||  ||||   |  || ||   | | |   |||    ||   ||| || |  ||  ||   |||         || |  | || |||   
+C-AACCACGTGCTACTTTCTGGCATC-ACGAAT-CTG---CCGCATAGGT--CCG-TGAG--TC--CATATGAA---------GGAA--GTAG-TTA---
+
+TG-CTA----GCAATACAGA-TGCCGC--TTCC-TTGGGGAGGGTGTGTAGGATGT-A---GG--TT--AA---CGAATGCA--AGTT-CCGGGGTATCG
+ | |||    || ||  ||| |  |||     | |     |   |||| |x||||| |   ||  ||  ||   |  |||||  | || ||    | |  
+-GCCTAACAGGC-AT--AGAGT--CGCGA---CAT-----A---TGTG-AAGATGTCATTCGGTATTCAAACCTC--ATGCATCA-TTGCC----T-T--
+
+CAGAGTCGTGCTACGGCGTG--GCACTTAGGGTCTCTCGGGAAAAAG----AGTA-G-
+  |||||  ||| |  | ||  |||  ||  |||x||   |    ||    | || | 
+--GAGTC--GCT-C--C-TGGAGCA--TA--GTCCCT---G----AGTGCCA-TATGA

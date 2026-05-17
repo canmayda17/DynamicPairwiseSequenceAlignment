@@ -1,0 +1,72 @@
+-----------------------------------------
+Compared files= test3 vs test4
+-----------------------------------------
+match score= 7
+mismatch score= -5
+gap opening penalty= -3
+gap extension penalty= -1
+-----------------------------------------
+Length for test3.seq= 1422
+Length for test4.seq= 219
+-----------------------------------------
+Alignment score= 178
+
+CGGGGAAAGACGGAATGCATCGACCATCGGACAATGCCTCACTGGAAGCGCTGCTGATTTTTGCGCAACGAGCCTCGGACCTCCCGCTCAAACTTACGAA
+       ||                          |||      |||                   ||||    |||                   ||||
+-------AG--------------------------GCC------GAA-------------------AACG----TCG-------------------CGAA
+
+AATGACTCCACCAGCACTGAACCAACTGGCCTCCAGTGAAGATAGTATCTACAAATCGTTTGCCGGGAGAAACATTTGTATGGTAGTCAGCGTTCTGCAC
+      |          || |||  |||||          ||              |    ||||                                   
+------T----------TG-ACC--CTGGC----------GA--------------C----GCCG-----------------------------------
+
+GTCACGTAATCGTTCACTAGTTGTGGGGTATACCAGGTCGTAATGAGATGTTAGTATGAATCGTTTATAACGCTTGTCATAGGAGTTCCGAATAATCGTC
+  | ||  |      ||        |||   |||   ||                      ||||                  |||              
+--C-CG--A------AC--------GGG---ACC---TC----------------------CGTT------------------AGT--------------
+
+ACTAGGTCAATGGCCCCCTACTTGTAATAACTACGTCTGATTGAGAAACAGATCGTTAGTCATCGGTTAATAGTCCCGGAAGATAACGGGTTCTTGCGTT
+     |    |||                             |||             ||||||                                    
+-----G----TGG-----------------------------GAG-------------GTCATC------------------------------------
+
+TTTGCGAATACTACTATCTCATGGCGATGGAGCGTTTGGTCCCATCCAGCCGCGCGAGTATCACTTGTTCGCCTGCACCTGTCCGACCTTTCGATGGGGA
+            |  |||||                                              ||||||                            
+------------A--ATCTC----------------------------------------------GTTCGC----------------------------
+
+GCTCCTTTCATTGGTTGTAGGTACTAAGGGTGAGCAATGTCACGTGACCCAAGGAGCCGTGTGTAATTTCCACTTGCTCAGAAAAGCCTCGACAATCTGG
+                 |||                                     ||                |||                      
+-----------------TAG-------------------------------------CG----------------GCT----------------------
+
+GACCGACACCTGAGTGATGGCTTACAGACCAGGGGAGGGGGGCAGGTTCCCTGGCCACAGAATGGCACGCCCTGAGGAGGCACCGGCCCAACGTCGCTGG
+    ||||||                                                  |||                 |||                 
+----GACACC--------------------------------------------------AAT-----------------CAC-----------------
+
+AGTGAGAAGACCGGATATATGCAACGAACAATCGCAAAATAGCTCCATGTACGCCTGTCCCGTAATACCGCATGCGAGCCTCGAAGCCCCCGACGTCAAA
+               ||||                           | ||    ||||            |||  || |||                   
+---------------TATA---------------------------A-GT----CTGT------------CAT--GA-CCT-------------------
+
+CCTCAACAAGTATAGGGTTCCACCGTATGAGCCACAGAATTCAGTTCCTCCGCTGATAGTCCCGGTTCCTCCAATCAGCAGATTCTGACTTAGGTCACTG
+  ||||                  ||        || |||                                 ||    ||||                 
+--TCAA------------------GT--------CA-AAT---------------------------------AT----AGAT-----------------
+
+GAAGAAACCTGGCGTATTGTGATGAAATTTCGTGGTGGACGCTACCGTCTAGGTAGAGCCACTAGTGCATTGTACACTGTCTTTTTCCGGCTATAATCGG
+       ||||||                          ||||                                                         
+-------CCTGGC--------------------------CGCT---------------------------------------------------------
+
+AGTTTCAGGCTGACTTGCCACCCAGGTCAAATAGTATGTCACGGTGTATGATCTCTCGGGCTGATAGCAAGGGGCGGCGTCGGGCACTCCTTGAATTGAC
+                     |||                                ||||||  |   ||        ||||                  
+---------------------CCA--------------------------------CGGGCT--T---AA--------GTCG------------------
+
+CATTTGGCGTGCCTTGTTGCCTCCTTCCTCAAGCAGGGTTAGGCTTCAGTAAGTGTGGGGGTGGCTGCCGAAAGACGGGCTCGGGGTGTTGCCCAACGTC
+                                            ||                  || |||||            |||        |||  
+--------------------------------------------TT------------------CT-CCGAA------------GGT--------ACG--
+
+TGGTCGACTTCCCATAATCTGGGCACAAGACGTATGGACCCGTGCGCTTAATGGTGCATTTCACGCGAGAAACGGAGGCAGGTGCCATCCGCGGCGAAAA
+                |||||          || ||||                |||  |||                                ||    
+----------------ATCTG----------GT-TGGA----------------TGC--TTC--------------------------------CG----
+
+GATCATCAGACATGACATAACGAGGAACCCGATCCGGAGTGAATACGTCACATGCCAGGGGGCGGTGTGCAGTTCTCGACCGGAAACGCCCACCCACGAC
+     ||          |||                             |||                  ||            ||           || 
+-----TC----------TAA-----------------------------ACA------------------AG------------AA-----------GA-
+
+GTACCGCCAAAGCGTCGCCTGG
+ |       ||   ||     |
+-T-------AA---TC-----G
