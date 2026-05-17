@@ -1,0 +1,25 @@
+-----------------------------------------
+Input file= test5.seq
+-----------------------------------------
+match score= 7
+mismatch score= -5
+gap opening penalty= -3
+gap extension penalty= -1
+-----------------------------------------
+Length for Sequence 1= 130
+Length for Sequence 2= 122
+-----------------------------------------
+Match count= 96
+Mismatch count= 6
+Gap opening count= 25
+Gap extension count= 23
+-----------------------------------------
+Alignment score= 544
+
+CGG--GTAGTTA-ACCCT-ACA-GCATAGAGTCGCGAGATA-AAGTGCAGGA-GTCTTTCGCGGCAG-ATTC--GTACCTCA---ACCA-CGTGCTACTT
+x||  |||||||   ||| ||| ||||||||||||||x|||   ||| |x|| |||x||||     | ||||    ||||||   |x||   |||  |||
+AGGAAGTAGTTAG--CCTAACAGGCATAGAGTCGCGACATAT--GTG-AAGATGTCATTCG-----GTATTCAA--ACCTCATGCATCAT--TGC--CTT
+
+---TCTGGCATCAC--GAATCTGCCGCATAGGTCCGTGAGT-CCATATGA
+   ||  || || |  ||       ||||| ||||x||||| ||||||||
+GAGTC--GC-TC-CTGGA-------GCATA-GTCCCTGAGTGCCATATGA

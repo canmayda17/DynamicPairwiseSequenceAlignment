@@ -1,0 +1,25 @@
+-----------------------------------------
+Input file= test4.seq
+-----------------------------------------
+match score= 7
+mismatch score= -5
+gap opening penalty= -3
+gap extension penalty= -1
+-----------------------------------------
+Length for Sequence 1= 120
+Length for Sequence 2= 99
+-----------------------------------------
+Match count= 71
+Mismatch count= 5
+Gap opening count= 33
+Gap extension count= 34
+-----------------------------------------
+Alignment score= 339
+
+AGGC--CGAAAACGTC-GCGAAT-T-GACCCTGGCGACGC-CGCCGAACGGGACCTCCGTT-AGT-GT-----G-GGAGGTCATCAATCTCGT----TCG
+   |  |   || |||    ||| | ||x||||||  |||   ||  |||||     | || ||| ||     |   |||| | |x||||x||    | |
+---CTTC---AA-GTCA---AATATAGATCCTGGC--CGCT--CC--ACGGG-----C-TTAAGTCGTTCTCCGA--AGGT-A-CGATCTGGTTGGAT-G
+
+CT--AGCGGCTGACACCAATCACTATAAGTCTGTCATGA--C-
+||    ||x||   |  || ||  |x|||      || |  | 
+CTTC--CGTCT---A--AA-CA--AGAAG------AT-AATCG

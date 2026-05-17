@@ -1,0 +1,29 @@
+-----------------------------------------
+Input file= test2.seq
+-----------------------------------------
+match score= 7
+mismatch score= -5
+gap opening penalty= -3
+gap extension penalty= -1
+-----------------------------------------
+Length for Sequence 1= 230
+Length for Sequence 2= 206
+-----------------------------------------
+Match count= 144
+Mismatch count= 7
+Gap opening count= 57
+Gap extension count= 77
+-----------------------------------------
+Alignment score= 725
+
+GTGT-GGTT-GCTTGCATCACTCCGTGTACATGTG---ACAAC-----CGAA---C-GAGTTG-AT--CCAGCTTTGTTAAG---TC-AGCTT---CGAA
+| || |||| |  ||x|x|||||| ||x|| |x||   |||||     | ||   | |||||| ||  |||        |||   || |||||   ||||
+G-GTAGGTTCG--TGAAGCACTCC-TGGAC-TCTGACCACAACATAATC-AAGCGCAGAGTTGAATGACCA--------AAGCGCTCAAGCTTTCACGAA
+
+TGCGGTAGCTCTCAAATATGATATGACTCTTGG-GGTAGATGC-TGGGGAC---CTATTGCGCCC---AAA-----G-CGATATTCGGGGCA-CCGGTTT
+  ||     ||||       ||||  | |   | |||     | |    ||   |    ||||x|   |||     | |  || ||    || |||    
+--CG-----TCTC-------ATAT--C-C---GCGGT-----CGT----ACAAAC----GCGCTCTTAAAACAATCGTC--TA-TC----CATCCG----
+
+AGGG-TACCCTATCAA-GGCGAT-AC-TT--C--GATGCAGTGTGATGCCGG-A-G-GTGTCG-GTCAGCATGTGA----GAGCT
+ ||| |||     ||| || | | || ||  |  |  ||||      ||||| | | | |x|| |x||| || |||    ||  |
+-GGGATAC-----CAATGG-G-TGACATTAACTGG--GCAG------GCCGGCACGCG-GACGCGACAG-AT-TGAAATGGA--T
